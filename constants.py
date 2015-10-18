@@ -1,0 +1,28 @@
+XOFFSET = (0, 1, 0, -1)
+YOFFSET = (-1, 0, 1, 0)
+DAXOFFSET = (1, 1, -1, -1)
+DAYOFFSET = (-1, 1, 1, -1)
+DBXOFFSET = (-1, 1, 1, -1)
+DBYOFFSET = (-1, -1, 1, 1)
+
+NORMAL = '0'
+BLOCKED = '1'
+SOURCE = 'S'
+TARGET = 'T'
+
+OPENED = 'P'
+CLOSED = 'C'
+
+SCALE = 10
+DIST = 10
+DDIST = 14  # diagonal distance
+INF = int(1e9)
+
+MANHATTAN = 0
+EUCLIDEAN = 1
+CHEBYSHEV = 2
+
+OSOURCE = 1
+OTARGET = 2
+CSOURCE = 1
+CTARGET = 2
