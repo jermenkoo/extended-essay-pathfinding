@@ -2,7 +2,7 @@
 
 was the topic of my high-school "research" essay, done as a part of IB Diploma Programme.
 
-I implemented the following path-finding algorithms: (original author Xueqiao Xu, I optimized the code and made it compatible with Python 3.x.
+I implemented the following path-finding algorithms: (original author Xueqiao Xu), I optimized the code and made it compatible with Python 3.x.
 * A* (with all heuristic functions, Manhattan, Euclidean and Chebyshev)
 * Bi-directional Breadth First Search (BFS)
 * Dijkstra's algorithm.
